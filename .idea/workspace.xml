@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79d07e5b-b9a8-4d8a-a1e7-8bb9ce01706d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.png" afterPath="$PROJECT_DIR$/test.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8BPimage20161119195824105214.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aaaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alltest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmrecolored10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmrecolored5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmsaturate1_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmstatic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nycolorize.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nycolorized.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nycolorized8recolored.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nyny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nyrecolored.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nyrecoloredcolorized.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nyrecoloredcolorized32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nyrecoloredcolorized64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/realtest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testrecolor.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jpg" afterPath="$PROJECT_DIR$/test.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eightbitify.py" afterPath="$PROJECT_DIR$/eightbitify.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nes.py" afterPath="$PROJECT_DIR$/nes.py" />
     </list>
     <ignored path="coloring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +49,8 @@
       <file leaf-file-name="eightbitify.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eightbitify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+            <state relative-caret-position="4270">
+              <caret line="122" column="14" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -40,8 +61,8 @@
       <file leaf-file-name="nes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="1576">
+              <caret line="95" column="12" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -68,10 +89,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
+    <option name="x" value="-11" />
     <option name="width" value="1932" />
-    <option name="height" value="1092" />
+    <option name="height" value="1091" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -282,23 +302,23 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="-12" width="1932" height="1092" extended-state="1" />
-    <editor active="true" />
+    <frame x="-11" y="0" width="1932" height="1091" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946351" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33096084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -329,16 +349,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="1576">
+          <caret line="95" column="12" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eightbitify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+        <state relative-caret-position="4270">
+          <caret line="122" column="14" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
